@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9F5ED1D9D281E0EFB0EB43FA06B86C4B"
-               BuildableName = "Pods_Todoey_HW.framework"
-               BlueprintName = "Pods-Todoey HW"
+               BlueprintIdentifier = "54B566618848DAF34B18D1FE992E5678"
+               BuildableName = "SwipeCellKit.framework"
+               BlueprintName = "SwipeCellKit"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9F5ED1D9D281E0EFB0EB43FA06B86C4B"
-            BuildableName = "Pods_Todoey_HW.framework"
-            BlueprintName = "Pods-Todoey HW"
+            BlueprintIdentifier = "54B566618848DAF34B18D1FE992E5678"
+            BuildableName = "SwipeCellKit.framework"
+            BlueprintName = "SwipeCellKit"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
